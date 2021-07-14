@@ -1,0 +1,12 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "version" : "v0.1"
+  },
+  "servers" : [ {
+    "url" : "https://virtserver.swaggerhub.com/SimpleApis/SimplApis/v0.1",
+    "description" : "SwaggerHub API Auto Mocking"
+  } ],
+  "paths" : { },
+  "components" : { }
+}
